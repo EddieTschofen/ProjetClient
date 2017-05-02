@@ -2,15 +2,15 @@ Projet développement coté client
 Responsive Design
 
 -	Changement du design général
--	Adaptivité du nombre de colonne selon la taille / le support
+-	Adaptivité du nombre de colonne selon la taille / le support via l'utilisation des GRIDs
 -	Apparition des icônes ‘’hover’’ automatique en dessous d’une certaine taille
 -	Titre et formulaire d’ajout dans un header
 -	Filtres et indications dans un footer
--	Header et footer fixed 
+-	Position header et footer fixed
 -	Changement  des filtres en icône
 -	Changement checkbox identiques aux icones
 
-tests responsive effectué grace a http://responsivedesignsimulator.com/
+tests responsive effectué grace a http://responsivedesignsimulator.com/ (petit décalage du a la scrollbar absente ou cachée sur de vrais mobiles)
 /!\ Utilisation de Material design lite
 
 voir les resultats optenus chez nous dans le dossier image
